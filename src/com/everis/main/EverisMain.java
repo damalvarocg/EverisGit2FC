@@ -19,6 +19,8 @@ public class EverisMain {
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
 
+		System.out.println("Hola, compañer@s! (ACG)");
+
 	}
 
 }
